@@ -20,6 +20,7 @@
 ### // AUTHENTICATING_IDENTITY: ABOUT_ME
 
 ```bash
+cat << EOF
 User: RSK-UHQ
 Status: Active // Running covert ops
 Access Level: Lvl 7 // Purpose classified
