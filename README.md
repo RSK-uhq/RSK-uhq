@@ -5,8 +5,8 @@
 <h1 align="center">RSK-UHQ // [STATUS: DECRYPTED_ONLINE]</h1>
 
 <p align="center">
-  Subverting realities, one line of code at a time.<br>
-  The system is compromised. The game is mine.
+  I rewrite realities, one line of code at a time.<br>
+  System’s compromised. Now game is mine.
 </p>
 
 <p align="center">
@@ -20,27 +20,29 @@
 ### // AUTHENTICATING_IDENTITY: ABOUT_ME
 
 ```bash
+cat << EOF
 User: RSK-UHQ
-Status: OPERATIONAL // COVERT
-Clearance: LEVEL_7 // REDACTED INTENTIONS
+Status: Active // Running covert ops
+Access Level: Lvl 7 // Purpose classified
 
-GeoTrace: JAMMED // ROUTING THROUGH MULTINODES
-Access: GLOBAL // MIRRORED RELAYS ENGAGED
+Location: Untraceable // Multi-layered server routing
+Access Scope: Global // Secured relays actived
 
-Specialization:
-- Social engineering in code
-- Data twisting & protocol poisoning
-- RPC injection, stealth routines
-- Digital heists with surgical precision
+Skills:  
+— Code-based manipulation  
+— Data interception & protocol exploitation  
+— Silent injections (RPC, SQL,...)
+— High-precision digital infiltration
 
-Philosophy:
-- Code is not creation. It\'s corruption.
-- Morality is a variable. I set its value.
-- Chaos breeds control.
+Mindset:  
+— Code doesn’t create, it transforms.  
+— Morality is flexible, I rewrite the rules.  
+— Chaos sharpens control.
 
-Current Objective:
->> Monetary reallocation through digital domination
->> Infiltrate. Extract. Vanish.
+Current Objective:  
+›› Digital reappropriation of financial assets  
+›› Get in. Grab what’s needed. Ghost out.
 
-Quote:
-"Control the code. Control the system."
+Quote:  
+> "I don’t scam. I redirect value."
+EOF```
