@@ -14,7 +14,6 @@
 ### // AUTHENTICATING_IDENTITY: ABOUT_ME
 
 ```bash
-cat << EOF
 User: RSK-UHQ
 Status: Active // Running covert ops
 Access Level: Lvl 7 // Purpose classified
@@ -40,4 +39,3 @@ Current Objective:
 Quote:  
 > "I don’t scam. I redirect value."
 ...
-EOF
