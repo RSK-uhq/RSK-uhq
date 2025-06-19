@@ -20,7 +20,6 @@
 ### // AUTHENTICATING_IDENTITY: ABOUT_ME
 
 ```bash
-cat << EOF
 User: RSK-UHQ
 Status: OPERATIONAL // COVERT
 Clearance: LEVEL_7 // REDACTED INTENTIONS
@@ -45,4 +44,3 @@ Current Objective:
 
 Quote:
 "Control the code. Control the system."
-EOF
