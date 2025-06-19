@@ -9,12 +9,6 @@
   System’s compromised. Now game is mine.
 </p>
 
-<p align="center">
-  <a href="#">[INFO_SEGMENT]</a> • 
-  <a href="#">[ACTIVE_THREADS]</a> • 
-  <a href="#">[ESTABLISH_COMMS]</a>
-</p>
-
 ---
 
 ### // AUTHENTICATING_IDENTITY: ABOUT_ME
