@@ -34,7 +34,7 @@ Specialization:
 - Digital heists with surgical precision
 
 Philosophy:
-- Code is not creation. It's corruption.
+- Code is not creation. It\'s corruption.
 - Morality is a variable. I set its value.
 - Chaos breeds control.
 
