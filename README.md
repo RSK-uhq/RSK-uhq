@@ -39,3 +39,5 @@ Current Objective:
 
 Quote:  
 > "I don’t scam. I redirect value."
+...
+EOF
