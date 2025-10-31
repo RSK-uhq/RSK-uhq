@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1286016740760748113/1406058374788939786/3.png?ex=68c2b3a7&is=68c16227&hm=3b5da0e99ec79a0aed46067c1eb195cb5e5e40a0499eccb209bd19c1922e056c&" alt="RSK Banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1286016740760748113/1433774283817226240/3.png?ex=6905e9db&is=6904985b&hm=caaefb8b520af3c286a58278df6fc9baca49bec4900a9fe50d3862765c0132ad&" alt="RSK Banner" width="100%">
 </p>
 
 <h1 align="center">RSK-UHQ // [STATUS: DECRYPTED_ONLINE]</h1>
